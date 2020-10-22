@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-// import "./Navbar.css";
+import "./Navbar.css";
 import { FaHome, FaCamera, FaThLarge, FaCog } from "react-icons/fa";
 
 class Navbar extends Component {
