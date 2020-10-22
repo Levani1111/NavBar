@@ -24,6 +24,7 @@
 } */
 
 .container .icon {
+  cursor: pointer;
   position: relative;
   margin: 15px;
   display: inline-block;
