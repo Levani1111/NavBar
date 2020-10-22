@@ -12,10 +12,10 @@
 }
 
 .Navbar__Container {
-  border-radius: 40px;
+  /* border-radius: 40px; */
   background-color: #09012c;
-  margin: 3px auto;
-  width: 500px;
+  margin: 0px auto;
+  /* width: 500px; */
 }
 
 /* .container {
