@@ -12,6 +12,8 @@ This is a simpole NavBar app build with React.js
 
 #### deployed
 
+https://elated-lichterman-860f73.netlify.app/
+
 ###### Author
 
 Levani Papashvili @2020
